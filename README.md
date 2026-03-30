@@ -23,8 +23,8 @@
 > outperforming strong baselines while incurring no additional computational overhead.
 
 ### Comparisons
-<video src="videos/video1.mp4" controls width="600"></video>
-<video src="videos/video13.mp4" controls width="600"></video>
+![video](videos/video7.gif)
+![video](videos/video13.gif)
 
 ### Framework
 
